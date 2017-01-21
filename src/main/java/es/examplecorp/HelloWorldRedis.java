@@ -8,8 +8,6 @@ package es.examplecorp;
  * To change this template use File | Settings | File Templates.
  */
 
-package es.examplecorp;
-
 import static spark.Spark.*;
 import redis.clients.jedis.Jedis;
 
