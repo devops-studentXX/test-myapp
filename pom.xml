@@ -7,9 +7,9 @@
     <name>MyApp Webapp</name>
     <url>http://maven.apache.org</url>
     <scm>
-        <connection>scm:git:git@github.com:devops-studentXX/myapp.git</connection>
-        <url>scm:git:git@github.com:devops-studentXX/myapp.git</url>
-        <developerConnection>scm:git:git@github.com:devops-studentXX/myapp.git</developerConnection>
+        <connection>scm:git:git@github.com:jmoratilla/test-myapp.git</connection>
+        <url>scm:git:git@github.com:jmoratilla/test-myapp.git</url>
+        <developerConnection>scm:git:git@github.com:jmoratilla/test-myapp.git</developerConnection>
         <tag>MyApp-1.0</tag>
     </scm>
 
